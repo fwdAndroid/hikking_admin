@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "980204939505",
+    "project_id": "hikkingfinder-762b0",
+    "storage_bucket": "hikkingfinder-762b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980204939505:android:78e6dbbd699550dceba150",
+        "android_client_info": {
+          "package_name": "com.example.hikking_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasM8ujYaC6KDRVBmpYr0WbNIfACI3Ywc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980204939505:android:7bee7385649e023ceba150",
+        "android_client_info": {
+          "package_name": "com.example.hikkingfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasM8ujYaC6KDRVBmpYr0WbNIfACI3Ywc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980204939505:android:cf951cc6f66aafc3eba150",
+        "android_client_info": {
+          "package_name": "com.example.hikkingfinder_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasM8ujYaC6KDRVBmpYr0WbNIfACI3Ywc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
